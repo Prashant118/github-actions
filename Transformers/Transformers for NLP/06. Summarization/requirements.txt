@@ -1,0 +1,8 @@
+transformers
+pandas
+torch
+numpy
+datasets
+sacrebleu
+nltk
+matplotlib
